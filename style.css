@@ -1,0 +1,8 @@
+body{
+    font-family: sans-serif;
+    padding: 40px 8%;
+}
+.top-info{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
